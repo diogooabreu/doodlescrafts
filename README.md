@@ -1,5 +1,5 @@
 # doodlescrafts - angular
-Este projeto tem como objetivo implementar progressivamente e de forma didática uma aplicação web inspirada em uma plataforma de arte(Artstaion).
+Este projeto tem como objetivo implementar progressivamente e de forma didática uma aplicação web inspirada em uma plataforma de arte(Artstation).
 
 O frontend da aplicação foi desenvolvido com Angular e o backend foi simulado pela implementação de uma API Fake, usando o JSON Server.
 
